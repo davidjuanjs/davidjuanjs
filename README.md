@@ -2,7 +2,9 @@
 
 **`Desenvolvedor Back-End`**
 
-Me chamo David Juan, tenho 21 anos e sou natural do São Roque - SP. Atualmente, estou cursando Engenharia de Software. Desde de novo sempre fui fascinado por tecnologia. Hoje meu foco principal é meu conhecimento e aprimoramento na linguagem JAVA.
+Sou David Juan, estudante de Engenharia de Software em São Roque - SP, com foco em desenvolvimento backend. Atualmente, estudo e aplico conceitos de Java, Programação Orientada a Objetos (POO) e ferramentas de controle de versão com Git/GitHub.
+
+Tenho interesse em boas práticas de engenharia de software, estruturas de dados e colaboração em projetos. Busco constantemente aprimorar minhas habilidades técnicas e contribuir para soluções que gerem impacto positivo.
 
 
 ---
